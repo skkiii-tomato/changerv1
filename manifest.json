@@ -1,6 +1,9 @@
 {
   "name": "Title changer",
-  "description": "Hider extension",
+  "description": "Anything strange?",
+  "icon": {
+    "16": "https://m.media-amazon.com/images/I/71FVG7dIefL._AC_UY900_.jpg"
+  },
   "version": "1.0",
   "manifest_version": 3,
   "permissions": [
